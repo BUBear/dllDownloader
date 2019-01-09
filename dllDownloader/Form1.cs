@@ -22,7 +22,7 @@ namespace dllDownloader
         {
             InitializeComponent();
         }
-        Uri dllListUri = new Uri("https://www.dropbox.com/s/mgw61zls5ntoizn/DLLLIST.txt?dl=1");
+        Uri dllListUri = new Uri("리스트링크");
         Search search;
         ArrayList searchList = new ArrayList();
 
